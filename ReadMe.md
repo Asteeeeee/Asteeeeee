@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou comecando no mundo da programacao<br>Estudando da Escola Superior de Tecnologia (EST)
+Estou comecando no mundo da <strong>programação</strong><br>Estudando da Escola Superior de Tecnologia (EST)
 
 
 # 💻 Tech Stack:
